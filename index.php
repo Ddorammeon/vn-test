@@ -158,7 +158,7 @@
                 <img src="./assets/img/flag.png" alt="" class="language__img" />
                 <p class="language">Tiếng Việt</p>
               </a>
-              <a href="jp-main.html" class="dropdown--item">
+              <a href="jp-main" class="dropdown--item">
                 <img
                   src="./assets/img/jp-flag.svg"
                   alt=""
@@ -167,7 +167,7 @@
                 <p class="language">日本語</p>
               </a>
               <a
-                href="en-main.html"
+                href="en-main"
                 class="dropdown--item dropdown--item__active"
               >
                 <img src="./assets/img/en-flag.svg" alt="" class="language__img" />
@@ -251,7 +251,7 @@
               </p>
 
               <a
-                href="FAQS-vn.html"
+                href="FAQS-vn"
                 target="_blank"
                 class="question-faqs__more"
               >
@@ -771,7 +771,7 @@
               </div>
             </div>
 
-            <a href="FAQS-vn.html" target="_blank" class="ques__submit--link">
+            <a href="FAQS-vn" target="_blank" class="ques__submit--link">
               <button class="ques__submit btn">
                 <p class="ques__submit--desc">Xem tất cả</p>
                 <img
